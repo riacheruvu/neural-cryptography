@@ -44,7 +44,7 @@ The necessary packages to run this code are:
 
 ## Detailed Explanation
 
-![1540091537599](C:\Users\Turia\AppData\Roaming\Typora\typora-user-images\1540091537599.png)
+![1540091537599](Crypto-Pipeline.png)
 ​				**A picture of the Crypto-Pipeline implemented for this project**.
 
 
