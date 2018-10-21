@@ -10,7 +10,7 @@ By encompassing the CIA (Confidentiality, Integrity, and Availability) triad, in
 
 I have also developed a signature/verification capability calculated based on the hidden states of the neural networks, which has not been accomplished before. The adopted and modified code presented in this project serves as a foundation to further research and improvements to the neural cryptography work. Once fully developed, the cipher will be able to improve on its resilience when it is compromised and autonomously restore the confidentiality of the system. There are numerous opportunities for NCA, including the possibility of using NCA for secure communication between autonomous IoT devices. Another opportunity for NCA would be for Artificial Intelligence due to its dynamically self-configurable nature and because it can function efficiently in massively parallel processing environments.
 
-**Please Note - This experimental project is adopted from: **
+**Please Note - This experimental project is adopted from:**
 
 * Abadi, M., & Andersen, D.G. (2016). Learning to Protect Communications with Adversarial Neural Cryptography. *CoRR, abs/1610.06918*.
 * Ankesh Anand, & Aly Shmahell. (2018, June 10). ankeshanand/neural-cryptography-tensorflow: Tensorflow implementation of Adversarial Neural Cryptography (Version 0.1.1). Zenodo. http://doi.org/10.5281/zenodo.1286594
@@ -45,7 +45,7 @@ The necessary packages to run this code are:
 ## Detailed Explanation
 
 ![1540091537599](Crypto-Pipeline.png)
-​				**A picture of the Crypto-Pipeline implemented for this project**.
+​**A picture of the Crypto-Pipeline implemented for this project**.
 
 
 
