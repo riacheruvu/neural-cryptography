@@ -1,6 +1,6 @@
 ﻿# neural-cryptography
 
-This project was implemented in 2016. **It is still a work in progress.**
+This project was implemented in 2016.
 
 ## Project Summary
 
